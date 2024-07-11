@@ -3,7 +3,7 @@
 I'm Gatis, a passionate Java developer with expertise in Spring Boot and SQL.
 
 ## 🔭 I’m currently working on ...
-- My **Flight Planner** project using Java, Spring Boot, and SQL.
+- My **Quiz Maker** project using Java, Spring Boot, and SQL, React.
 
 ## 👯 I’m looking to collaborate on ...
 - Open source Java projects
