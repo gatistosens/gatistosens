@@ -27,12 +27,11 @@ An interactive quiz-making application built with:
 - **Frontend**: React
 - **Database**: SQL
 
-Check out the repository [here](https://github.com/gatistosens/quiz-maker).
+Check out the repository [here](https://github.com/gatistosens/QuizMaker).
 
 ---
 
 ## 📈 My GitHub Stats
-![Gatis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gatistosens&show_icons=true&theme=highcontrast)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatistosens&layout=compact&theme=highcontrast)
 
